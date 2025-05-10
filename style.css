@@ -1,0 +1,42 @@
+body {
+	background-image: url(https://storage.letudiant.fr/mediatheque/letudiant/3/2/2232732-spe-nsi-766x438.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	color: dodgerblue;
+	text-align: center;
+	margin-top: 30px;
+}
+
+h2 {
+	color: blueviolet;
+	text-align: center;
+}
+
+h3, h4, p, li {
+	color: white;
+}
+
+p {
+	background-color: rgba(0, 0, 0, 0.5); /* Fond semi-transparent pour lire sur l’image */
+	padding: 10px;
+	border-radius: 10px;
+	margin: 20px;
+}
+
+ul {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 15px;
+	border-radius: 10px;
+	width: fit-content;
+	margin: 20px;
+}
+
+li {
+	margin-bottom: 10px;
+}
